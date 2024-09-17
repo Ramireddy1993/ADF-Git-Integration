@@ -17,7 +17,7 @@
 				"typeProperties": {
 					"notebookPath": "/Users/aramireddy123456@outlook.com/Untitled Notebook 2024-09-17 12:21:24",
 					"baseParameters": {
-						"table_name": {
+						"tableName": {
 							"value": "@pipeline().parameters.tableName",
 							"type": "Expression"
 						}
